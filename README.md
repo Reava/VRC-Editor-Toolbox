@@ -3,6 +3,7 @@
 - Toggle Light Volume support on all Filamented Materials in the project or scene.
 - Change values on multiple bakery light sources at once
 - Name every gameobject under the selection in sequential order
+- Place any amount of objects in a perfect circle (Supports changing radius, custom center, facing to center)
 
 Unless otherwise specified, all scripts are made by myself.
 
