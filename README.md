@@ -1,3 +1,13 @@
+
+<div align=left>
+  <a href="https://reava.github.io/VPM-Listings/"><img alt="Add to VCC" src="https://github.com/user-attachments/assets/33d583a7-4f7f-426a-901a-1581bd98001e"></a>
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/reava/VRC-Editor-Toolbox/release.yml?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Reava/VRC-Editor-Toolbox?color=blue&style=for-the-badge">
+  <a href="https://github.com/Reava/VRC-Editor-Toolbox/releases/latest/"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/reava/VRC-Editor-Toolbox?logo=unity&style=for-the-badge"></a>
+  <a href="https://github.com/Reava/VRC-Editor-Toolbox/releases/latest/"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/reava/VRC-Editor-Toolbox/total?color=blue&style=for-the-badge"></a>
+</div>
+<br>
+
 # Contains the following simple editor tools:
 - Batch file renamer, with prefix, suffix, subfolders and preview of changes.
 - Mass teleport objects to a transform
