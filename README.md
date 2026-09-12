@@ -11,6 +11,7 @@
 # Contains the following simple editor tools:
 - Batch file renamer, with prefix, suffix, subfolders and preview of changes.
 - Mass teleport objects to a transform
+- Batch UI Z Fixer
 - Toggle Light Volume support on all Filamented Materials in the project or scene.
 - Change values on multiple bakery light sources at once (Right click on target or parent object on the hierarchy to use!)
 - Name every gameobject under the selection in sequential order
