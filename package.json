@@ -1,7 +1,7 @@
 {
   "name": "chirp.reava.editortoolbox",
   "displayName": "Reava's Editor Toolbox",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "unity": "2022.3",
   "description": "A collection of Simple Editor Tools I made to speed up niche processes I encountered making VRChat worlds.",
   "author": {

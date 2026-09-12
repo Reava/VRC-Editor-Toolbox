@@ -12,7 +12,7 @@
 - Batch file renamer, with prefix, suffix, subfolders and preview of changes.
 - Mass teleport objects to a transform
 - Toggle Light Volume support on all Filamented Materials in the project or scene.
-- Change values on multiple bakery light sources at once
+- Change values on multiple bakery light sources at once (Right click on target or parent object on the hierarchy to use!)
 - Name every gameobject under the selection in sequential order
 - Place any amount of objects in a perfect circle (Supports changing radius, custom center, facing to center)
 
